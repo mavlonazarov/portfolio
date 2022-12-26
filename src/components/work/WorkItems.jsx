@@ -11,7 +11,7 @@ const WorkItems = ({ item }) => {
         <a href={item.demo} className="work__button" target="_blank">
           Demo <i className="bx bx-right-arrow-alt work__button-icon"></i>
         </a>
-        <a href={item.demo} className="work__button" target="_blank">
+        <a href={item.source} className="work__button" target="_blank">
           Source <i className="bx bx-right-arrow-alt work__button-icon"></i>
         </a>
       </div>
